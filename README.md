@@ -4,5 +4,5 @@ School Management System using Laravel
 
 UML for this mini project:
 
-![alt tag](https://github.com/OthmaneBlial/Basic_Laravel5.4_CMS/blob/master/BASIC%20LARAVEL%205.4%20CMS/Student%20Management.svg)
+![alt tag](https://github.com/OthmaneBlial/UMLs/blob/master/Student%20Management.png)
 
